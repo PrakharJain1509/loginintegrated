@@ -1,0 +1,20 @@
+/* Logout.css */
+.logout-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.logout-content {
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #777;
+    margin-top: 10px;
+}

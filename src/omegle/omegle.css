@@ -1,0 +1,26 @@
+/* Add these styles to your existing CSS file or style block */
+
+/* Common styles for messages */
+.message {
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Styles for messages from person1 (assuming you have a light background) */
+.person1 {
+    background-color: #aaffaa;
+    /* Light green background for person1's messages */
+    color: #333;
+    /* Dark text color for better readability */
+}
+
+/* Styles for messages from person2 (assuming you have a light background) */
+.person2 {
+    background-color: #aaccff;
+    /* Light blue background for person2's messages */
+    color: #333;
+    /* Dark text color for better readability */
+}
+
+/* Add more styles as needed */
